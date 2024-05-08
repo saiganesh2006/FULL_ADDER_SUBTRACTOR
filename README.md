@@ -76,7 +76,7 @@ endmodule
 ```
 **RTL Schematic**
 
-![image](https://github.com/saiganesh2006/FULL_ADDER_SUBTRACTOR/assets/145742342/698fa788-653c-45dd-8120-1d6149e69d0f)
+![image](https://github.com/saiganesh2006/FULL_ADDER_SUBTRACTOR/assets/145742342/b0f47c65-eff7-4558-9633-26af1fd2957f)
 
 **Output Timing Waveform**
 
