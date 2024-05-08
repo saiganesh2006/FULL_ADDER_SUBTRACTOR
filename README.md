@@ -71,7 +71,7 @@ output sum,carry,D,Bo;
 assign sum=a^b^c;
 assign carry=(a&b)|(b&c) | (a&c);
 assign D=a^b^c;
-assign B0=(~a&b) | (b&c) | (~a&c);
+assign Bo=(~a&b) | (b&c) | (~a&c);
 endmodule
 ```
 **RTL Schematic**
